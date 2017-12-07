@@ -64,6 +64,12 @@
         },
         formatDuplicateAlertDescription: function () {
             return 'Удалите, пожалуйста, дублирующую колонку, или замените ее на другую.';
+        },
+        formatPaginationSwitch: function () {
+            return 'Показать/скрыть пагинацию';
+        },
+        formatExport: function () {
+            return 'Экспорт данных';
         }
     };
 
